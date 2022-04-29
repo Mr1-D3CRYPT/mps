@@ -1,0 +1,39 @@
+.nav{
+    background-color:black;
+    padding:1%;
+
+}
+
+.nav a{
+      color:white;
+      padding:1%;
+      text-decoration:none;
+}
+
+
+.nav a:hover{
+  background-color:#ddd;
+  color:black;
+}
+
+.nav a:focus{
+  background:#50C878;
+  color:white;
+}
+
+.nav a:active{
+  background:#50C878;
+  color:white;
+}
+
+table{
+  border:1%;
+  padding:10;
+}
+
+.center{
+  width:50%;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
